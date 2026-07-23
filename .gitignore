@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+.env
+.env.local
+*.log
+dist/
+build/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+backend/venv/
